@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 sanic = "*"
 asyncpg = "*"
+xmltodict = "*"
+suds-py3 = "*"
+httpx = "*"
 
 [dev-packages]
 

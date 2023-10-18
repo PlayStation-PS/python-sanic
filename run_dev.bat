@@ -1,3 +1,3 @@
 @echo off
 
-sanic app --reload --debug
+sanic server --reload --debug
