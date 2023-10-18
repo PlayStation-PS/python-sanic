@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 sanic = "*"
 asyncpg = "*"
+suds-py3 = "*"
+httpx = "*"
 
 [dev-packages]
 
